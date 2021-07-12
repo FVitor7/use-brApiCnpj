@@ -36,7 +36,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "use-brapicnpj",
+  "name": "use-brapi-cnpj",
   "author": "Fábio Vitor",
   "module": "dist/use-brapicnpj.esm.js",
   "devDependencies": {
