@@ -10,11 +10,10 @@
 </p>
  
 
-![use-viacep](https://badgen.net/bundlephobia/minzip/use-brapi-cnpj)
+![use-brapi-cnpj](https://badgen.net/bundlephobia/minzip/use-brapi-cnpj)
 
-  
 
-React hook to fetch Brazilian CNPJ's using [Brasil API]([https://brasilapi.com.br/](https://brasilapi.com.br//)).
+React hook to fetch Brazilian CNPJ's using [Brasil API](https://brasilapi.com.br).
 
   
 
