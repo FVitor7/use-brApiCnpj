@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.6",
   "license": "MIT",
   "description": "React hook to fetch Brazilian CNPJ's using BrazilApi.",
   "repository": "https://github.com/FVitor7/use-brApiCnpj",
